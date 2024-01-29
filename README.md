@@ -10,7 +10,7 @@ SeqExtractor is a script for extracting sequences from a FASTA file based on a l
 1. Clone the repository:
 
  ```bash
- git clone https://github.com/cavalheiromf/SeqExtractor.git
+ git clone https://github.com/cavalheiromf10/SeqExtractor.git
  cd SeqExtractor
 ```
 2. Make the script executable
