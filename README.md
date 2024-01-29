@@ -23,8 +23,8 @@ SeqExtractor is a script for extracting sequences from a FASTA file based on a l
 ./SeqExtractor.py -i input_file -s sequence_file -o output_file
 ```
 ## Arguments
-`input_file`: File with one sequence ID per line.
-`sequence_file`: FASTA file containing sequences to extract.
+`input_file`: File with one sequence ID per line.  
+`sequence_file`: FASTA file containing sequences to extract.  
 `output_file`: Name of the output file to save the extracted sequences.
 
 ## Example
